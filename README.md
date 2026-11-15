@@ -6,7 +6,7 @@ Participo desde la organización del contenido y el diseño de la interfaz hasta
 
 ## Proyectos
 
-### [Hilton Mendoza](https://peressa.dev/trabajos/hilton-mendoza/)
+### [Hilton Mendoza](https://peressa.dev/work/hilton-mendoza.html)
 
 Diseño y desarrollo de su propuesta web, con contenido en español y portugués e integración de catálogo, carrito y seguimiento de compras con la plataforma de RIO360.
 
@@ -14,7 +14,7 @@ Diseño y desarrollo de su propuesta web, con contenido en español y portugués
 
 **Estado:** pendiente de aprobación y lanzamiento.
 
-### [Plataforma RIO360](https://peressa.dev/trabajos/rio360/)
+### [Plataforma RIO360](https://peressa.dev/work/rio360.html)
 
 Panel privado y API para administrar empresas, productos, consultas, pedidos, cupos, vouchers, gift cards y soporte, con integración de Mercado Pago.
 
@@ -22,7 +22,7 @@ Panel privado y API para administrar empresas, productos, consultas, pedidos, cu
 
 **Estado:** en preparación para producción.
 
-### [Suma Veritas](https://peressa.dev/trabajos/suma-veritas/)
+### [Suma Veritas](https://peressa.dev/work/suma-veritas.html)
 
 Diseño, desarrollo y publicación del [sitio institucional](https://sumaveritas.ong/) y de la [página de Summit](https://sumaveritas.ong/summit/).
 
